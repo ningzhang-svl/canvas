@@ -1,8 +1,8 @@
 {
-	"toolbar.palette": "[Esperanto~Palette~eo]",
-	"toolbar.zoomIn": "[Esperanto~Zoom in~eo]",
-	"toolbar.zoomOut": "[Esperanto~Zoom out~~eo]",
-	"toolbar.zoomToFit": "[Esperanto~Zoom to fit~eo]",
-	"toolbar.overflowMenu": "[Esperanto~Overflow menu~eo]",
-	"toolbar.label": "[Esperanto~Canvas toolbar~eo]"
+  "toolbar.palette": "$63b737ca#Palette]}",
+  "toolbar.zoomIn": "$2bb6b1cb#Zoom in]}",
+  "toolbar.zoomOut": "$244c4009#Zoom out]}",
+  "toolbar.zoomToFit": "$aeb8937#Zoom to fit]}",
+  "toolbar.overflowMenu": "$37fa01ce#Overflow menu]}",
+  "toolbar.label": "$89fbf1ff#Canvas toolbar]}"
 }

@@ -1,10 +1,10 @@
 {
-	"palette.flyout.search.placeholder": "[Esperanto~Find palette nodes~~~~eo]",
-	"palette.flyout.search.noresults": "[Esperanto~No results found.~~~~eo]",
-	"palette.flyout.search.adjustsearch": "[Esperanto~Try adjusting your search to find what you're looking for.~~~~eo]",
-	"palette.flyout.search.resultsrestricted": "[Esperanto~Results restricted to 10 nodes. Try refining your search.~~~~eo]",
-	"palette.flyout.search.more": "[Esperanto~Show more~~~~eo]",
-	"palette.flyout.search.less": "[Esperanto~Show less~~~~eo]",
-	"palette.flyout.label": "[Esperanto~Flyout Palette~eo]",
-	"palette.dialog.label": "[Esperanto~Dialog Palette~eo]"
+  "palette.flyout.search.placeholder": "$a680b1eb#Find palette nodes]}",
+  "palette.flyout.search.noresults": "$a434d1c7#No results found.]}",
+  "palette.flyout.search.adjustsearch": "$b291352c#Try adjusting your search to find what you're looking for.]}",
+  "palette.flyout.search.resultsrestricted": "$8c1c7491#Results restricted to 10 nodes. Try refining your search.]}",
+  "palette.flyout.search.more": "$6ddd5f89#Show more]}",
+  "palette.flyout.search.less": "$3539392a#Show less]}",
+  "palette.flyout.label": "$d769bb4#Flyout Palette]}",
+  "palette.dialog.label": "$26a3ff00#Dialog Palette]}"
 }
