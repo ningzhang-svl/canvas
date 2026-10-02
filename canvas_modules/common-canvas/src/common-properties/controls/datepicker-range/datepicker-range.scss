@@ -14,7 +14,20 @@
  * limitations under the License.
  */
 
+@use "../../../carbon.scss";
+
 .properties-datepicker-range {
+	.properties-datepicker-range-label-container {
+		display: flex;
+		gap: 1px;
+		.properties-label-container {
+			width: 143.5px;
+			flex: none;
+			label.properties-label-disabled {
+				color: carbon.$text-disabled;
+			}
+		}
+	}
 	.cds--date-picker-container {
 		justify-content: normal; // Override carbon to fix layout when only one has helper text
 	}
